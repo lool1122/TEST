@@ -1,0 +1,20 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+        <title>Portfolio</title>
+        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="#"> 
+    </head>  
+    <body> 
+        <header> 
+            <a href="#" class="logo">Ali</a>
+            <nav class="navigation">
+                <a href="#">Skills</a>
+                <a href="#">Projects</a>
+                <a href="#">Contacts</a>
+            </nav>    
+        </header>
+        <section class="main">
+            <div>
+                
+                
